@@ -1,0 +1,384 @@
+28/01/2020-10:50:02 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-10:50:02 Add property "userid" value "DJN"
+28/01/2020-10:50:02 Add property "password" value "DJN"
+28/01/2020-10:50:02 Add property "database" value "SJK"
+28/01/2020-10:50:03 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-10:50:03 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-10:50:04 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-10:50:04 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:04:22 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:04:22 Add property "userid" value "DJN"
+28/01/2020-11:04:22 Add property "password" value "DJN"
+28/01/2020-11:04:22 Add property "database" value "SJK"
+28/01/2020-11:04:22 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:04:22 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:04:23 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:04:23 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:15:18 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:15:18 Add property "userid" value "DJN"
+28/01/2020-11:15:18 Add property "password" value "DJN"
+28/01/2020-11:15:18 Add property "database" value "SJK"
+28/01/2020-11:15:18 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:15:18 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:15:19 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:15:19 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:20:33 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:20:33 Add property "userid" value "DJN"
+28/01/2020-11:20:33 Add property "password" value "DJN"
+28/01/2020-11:20:33 Add property "database" value "SJK"
+28/01/2020-11:20:34 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:20:34 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:20:34 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:20:34 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:26:04 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:26:04 Add property "userid" value "DJN"
+28/01/2020-11:26:04 Add property "password" value "DJN"
+28/01/2020-11:26:04 Add property "database" value "SJK"
+28/01/2020-11:26:04 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:26:04 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:26:05 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:26:05 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:28:44 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:28:44 Add property "userid" value "DJN"
+28/01/2020-11:28:44 Add property "password" value "DJN"
+28/01/2020-11:28:44 Add property "database" value "SJK"
+28/01/2020-11:28:44 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:28:44 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:28:45 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:28:45 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:29:09 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:29:09 Add property "userid" value "DJN"
+28/01/2020-11:29:09 Add property "password" value "DJN"
+28/01/2020-11:29:09 Add property "database" value "SJK"
+28/01/2020-11:29:09 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:29:09 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:29:09 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:29:09 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:30:12 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:30:12 Add property "userid" value "DJN"
+28/01/2020-11:30:12 Add property "password" value "DJN"
+28/01/2020-11:30:12 Add property "database" value "SJK"
+28/01/2020-11:30:12 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:30:12 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:30:12 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:30:12 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:37:22 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:37:22 Add property "userid" value "DJN"
+28/01/2020-11:37:22 Add property "password" value "DJN"
+28/01/2020-11:37:22 Add property "database" value "SJK"
+28/01/2020-11:37:22 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:37:22 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:37:23 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:37:23 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:42:43 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:42:43 Add property "userid" value "DJN"
+28/01/2020-11:42:43 Add property "password" value "DJN"
+28/01/2020-11:42:43 Add property "database" value "SJK"
+28/01/2020-11:42:44 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:42:44 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:42:44 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:42:44 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:44:14 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:44:14 Add property "userid" value "DJN"
+28/01/2020-11:44:14 Add property "password" value "DJN"
+28/01/2020-11:44:14 Add property "database" value "SJK"
+28/01/2020-11:44:14 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:44:14 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:44:14 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:44:15 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:46:31 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:46:31 Add property "userid" value "DJN"
+28/01/2020-11:46:31 Add property "password" value "DJN"
+28/01/2020-11:46:31 Add property "database" value "SJK"
+28/01/2020-11:46:31 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:46:31 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:46:32 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:46:32 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:48:13 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:48:13 Add property "userid" value "DJN"
+28/01/2020-11:48:13 Add property "password" value "DJN"
+28/01/2020-11:48:13 Add property "database" value "SJK"
+28/01/2020-11:48:13 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:48:13 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:48:14 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:48:14 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:49:55 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:49:55 Add property "userid" value "DJN"
+28/01/2020-11:49:55 Add property "password" value "DJN"
+28/01/2020-11:49:55 Add property "database" value "SJK"
+28/01/2020-11:49:55 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:49:55 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:49:55 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:49:55 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:58:41 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:58:41 Add property "userid" value "DJN"
+28/01/2020-11:58:41 Add property "password" value "DJN"
+28/01/2020-11:58:41 Add property "database" value "SJK"
+28/01/2020-11:58:41 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:58:41 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:58:41 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:58:42 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:59:04 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:59:04 Add property "userid" value "DJN"
+28/01/2020-11:59:04 Add property "password" value "DJN"
+28/01/2020-11:59:04 Add property "database" value "SJK"
+28/01/2020-11:59:04 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:59:04 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:59:05 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:59:05 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:59:51 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-11:59:51 Add property "userid" value "DJN"
+28/01/2020-11:59:51 Add property "password" value "DJN"
+28/01/2020-11:59:51 Add property "database" value "SJK"
+28/01/2020-11:59:51 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-11:59:51 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-11:59:51 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-11:59:51 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-12:00:25 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-12:00:25 Add property "userid" value "DJN"
+28/01/2020-12:00:25 Add property "password" value "DJN"
+28/01/2020-12:00:25 Add property "database" value "SJK"
+28/01/2020-12:00:25 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-12:00:25 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-12:00:27 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-12:00:27 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:04:26 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:04:26 Add property "userid" value "DJN"
+28/01/2020-13:04:26 Add property "password" value "DJN"
+28/01/2020-13:04:26 Add property "database" value "SJK"
+28/01/2020-13:04:26 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:04:26 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:04:26 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:04:26 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:07:29 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:07:29 Add property "userid" value "DJN"
+28/01/2020-13:07:29 Add property "password" value "DJN"
+28/01/2020-13:07:29 Add property "database" value "SJK"
+28/01/2020-13:07:29 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:07:29 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:07:30 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:07:30 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:08:50 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:08:50 Add property "userid" value "DJN"
+28/01/2020-13:08:50 Add property "password" value "DJN"
+28/01/2020-13:08:50 Add property "database" value "SJK"
+28/01/2020-13:08:50 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:08:50 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:08:51 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:08:51 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:10:14 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:10:14 Add property "userid" value "DJN"
+28/01/2020-13:10:14 Add property "password" value "DJN"
+28/01/2020-13:10:14 Add property "database" value "SJK"
+28/01/2020-13:10:14 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:10:14 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:10:15 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:10:15 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:11:51 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:11:51 Add property "userid" value "DJN"
+28/01/2020-13:11:51 Add property "password" value "DJN"
+28/01/2020-13:11:51 Add property "database" value "SJK"
+28/01/2020-13:11:51 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:11:51 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:11:52 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:11:52 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:27:15 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:27:15 Add property "userid" value "DJN"
+28/01/2020-13:27:15 Add property "password" value "DJN"
+28/01/2020-13:27:15 Add property "database" value "SJK"
+28/01/2020-13:27:15 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:27:15 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:27:15 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:27:15 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:30:36 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:30:36 Add property "userid" value "DJN"
+28/01/2020-13:30:36 Add property "password" value "DJN"
+28/01/2020-13:30:36 Add property "database" value "SJK"
+28/01/2020-13:30:36 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:30:36 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:30:37 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:30:37 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:32:53 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:32:53 Add property "userid" value "DJN"
+28/01/2020-13:32:53 Add property "password" value "DJN"
+28/01/2020-13:32:53 Add property "database" value "SJK"
+28/01/2020-13:32:53 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:32:53 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:32:53 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:32:53 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:33:52 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:33:52 Add property "userid" value "DJN"
+28/01/2020-13:33:52 Add property "password" value "DJN"
+28/01/2020-13:33:52 Add property "database" value "SJK"
+28/01/2020-13:33:52 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:33:52 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:33:53 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:33:53 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:35:55 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:35:55 Add property "userid" value "DJN"
+28/01/2020-13:35:55 Add property "password" value "DJN"
+28/01/2020-13:35:55 Add property "database" value "SJK"
+28/01/2020-13:35:55 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:35:55 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:35:56 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:35:56 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:39:43 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:39:43 Add property "userid" value "DJN"
+28/01/2020-13:39:43 Add property "password" value "DJN"
+28/01/2020-13:39:43 Add property "database" value "SJK"
+28/01/2020-13:39:44 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:39:44 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:39:44 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:39:44 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:41:00 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:41:00 Add property "userid" value "DJN"
+28/01/2020-13:41:00 Add property "password" value "DJN"
+28/01/2020-13:41:00 Add property "database" value "SJK"
+28/01/2020-13:41:00 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:41:00 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:41:01 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:41:01 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:43:05 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:43:05 Add property "userid" value "DJN"
+28/01/2020-13:43:05 Add property "password" value "DJN"
+28/01/2020-13:43:05 Add property "database" value "SJK"
+28/01/2020-13:43:05 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:43:05 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:43:06 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:43:06 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:45:36 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-13:45:36 Add property "userid" value "DJN"
+28/01/2020-13:45:36 Add property "password" value "DJN"
+28/01/2020-13:45:36 Add property "database" value "SJK"
+28/01/2020-13:45:37 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-13:45:37 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-13:45:37 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-13:45:37 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:03:31 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-14:03:31 Add property "userid" value "DJN"
+28/01/2020-14:03:31 Add property "password" value "DJN"
+28/01/2020-14:03:31 Add property "database" value "SJK"
+28/01/2020-14:03:31 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-14:03:31 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-14:03:32 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:03:32 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:07:44 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-14:07:44 Add property "userid" value "DJN"
+28/01/2020-14:07:44 Add property "password" value "DJN"
+28/01/2020-14:07:44 Add property "database" value "SJK"
+28/01/2020-14:07:44 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-14:07:44 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-14:07:45 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:07:45 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:16:48 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-14:16:48 Add property "userid" value "DJN"
+28/01/2020-14:16:48 Add property "password" value "DJN"
+28/01/2020-14:16:48 Add property "database" value "SJK"
+28/01/2020-14:16:48 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-14:16:48 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-14:16:48 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:16:49 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:49:24 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-14:49:24 Add property "userid" value "DJN"
+28/01/2020-14:49:24 Add property "password" value "DJN"
+28/01/2020-14:49:24 Add property "database" value "SJK"
+28/01/2020-14:49:24 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-14:49:24 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-14:49:26 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:49:26 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:50:41 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-14:50:41 Add property "userid" value "DJN"
+28/01/2020-14:50:41 Add property "password" value "DJN"
+28/01/2020-14:50:41 Add property "database" value "SJK"
+28/01/2020-14:50:41 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-14:50:41 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-14:50:42 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:50:42 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:54:56 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-14:54:56 Add property "userid" value "DJN"
+28/01/2020-14:54:56 Add property "password" value "DJN"
+28/01/2020-14:54:56 Add property "database" value "SJK"
+28/01/2020-14:54:57 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-14:54:57 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-14:54:57 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:54:57 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:55:27 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-14:55:27 Add property "userid" value "DJN"
+28/01/2020-14:55:27 Add property "password" value "DJN"
+28/01/2020-14:55:27 Add property "database" value "SJK"
+28/01/2020-14:55:27 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-14:55:27 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-14:55:27 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:55:27 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:55:48 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-14:55:48 Add property "userid" value "DJN"
+28/01/2020-14:55:48 Add property "password" value "DJN"
+28/01/2020-14:55:48 Add property "database" value "SJK"
+28/01/2020-14:55:48 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-14:55:48 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-14:55:49 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:55:49 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:56:59 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-14:56:59 Add property "userid" value "DJN"
+28/01/2020-14:56:59 Add property "password" value "DJN"
+28/01/2020-14:56:59 Add property "database" value "SJK"
+28/01/2020-14:56:59 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-14:56:59 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-14:56:59 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-14:56:59 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:05:54 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-15:05:54 Add property "userid" value "DJN"
+28/01/2020-15:05:54 Add property "password" value "DJN"
+28/01/2020-15:05:54 Add property "database" value "SJK"
+28/01/2020-15:05:54 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-15:05:54 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-15:05:56 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:05:56 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:06:18 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-15:06:18 Add property "userid" value "DJN"
+28/01/2020-15:06:18 Add property "password" value "DJN"
+28/01/2020-15:06:18 Add property "database" value "SJK"
+28/01/2020-15:06:18 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-15:06:18 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-15:06:19 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:06:19 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:06:36 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-15:06:36 Add property "userid" value "DJN"
+28/01/2020-15:06:36 Add property "password" value "DJN"
+28/01/2020-15:06:36 Add property "database" value "SJK"
+28/01/2020-15:06:37 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-15:06:37 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-15:06:37 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:06:37 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:07:01 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-15:07:01 Add property "userid" value "DJN"
+28/01/2020-15:07:01 Add property "password" value "DJN"
+28/01/2020-15:07:01 Add property "database" value "SJK"
+28/01/2020-15:07:01 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-15:07:01 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-15:07:02 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:07:02 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:07:26 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-15:07:26 Add property "userid" value "DJN"
+28/01/2020-15:07:26 Add property "password" value "DJN"
+28/01/2020-15:07:26 Add property "database" value "SJK"
+28/01/2020-15:07:26 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-15:07:26 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-15:07:27 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:07:27 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:08:20 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-15:08:20 Add property "userid" value "DJN"
+28/01/2020-15:08:20 Add property "password" value "DJN"
+28/01/2020-15:08:20 Add property "database" value "SJK"
+28/01/2020-15:08:20 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-15:08:20 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-15:08:21 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:08:21 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:09:10 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+28/01/2020-15:09:10 Add property "userid" value "DJN"
+28/01/2020-15:09:10 Add property "password" value "DJN"
+28/01/2020-15:09:10 Add property "database" value "SJK"
+28/01/2020-15:09:10 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+28/01/2020-15:09:10 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+28/01/2020-15:09:10 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+28/01/2020-15:09:11 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".

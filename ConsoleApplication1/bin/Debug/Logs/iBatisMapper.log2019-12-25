@@ -1,0 +1,8 @@
+25/12/2019-19:25:17 Statement Id: [FindPageId] Prepared SQL: [SELECT Top(1) PageId        FROM tpzPages        WHERE FriendlyName =   @param0]
+25/12/2019-19:25:17 Statement Id: [FindPageId] PreparedStatement : [SELECT Top(1) PageId        FROM tpzPages        WHERE FriendlyName =   @param0]
+25/12/2019-19:25:17 Statement Id: [FindPageId] Parameters: [@param0=[value,Footer]]
+25/12/2019-19:25:17 Statement Id: [FindPageId] Types: [@param0=[String, System.String]]
+25/12/2019-19:26:24 Statement Id: [FindPageId] Prepared SQL: [SELECT Top(1) PageId        FROM tpzPages        WHERE FriendlyName =   @param0]
+25/12/2019-19:26:30 Statement Id: [FindPageId] PreparedStatement : [SELECT Top(1) PageId        FROM tpzPages        WHERE FriendlyName =   @param0]
+25/12/2019-19:26:30 Statement Id: [FindPageId] Parameters: [@param0=[value,Footer]]
+25/12/2019-19:26:30 Statement Id: [FindPageId] Types: [@param0=[String, System.String]]

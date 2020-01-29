@@ -1,0 +1,82 @@
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:25:17 Adding file [SqlMap.config] to list of watched files.
+25/12/2019-19:25:17 Statement Id: [FindPageId] Prepared SQL: [SELECT Top(1) PageId        FROM tpzPages        WHERE FriendlyName =   @param0]
+25/12/2019-19:25:17 Statement Id: [FindPageId] PreparedStatement : [SELECT Top(1) PageId        FROM tpzPages        WHERE FriendlyName =   @param0]
+25/12/2019-19:25:17 Statement Id: [FindPageId] Parameters: [@param0=[value,Footer]]
+25/12/2019-19:25:17 Statement Id: [FindPageId] Types: [@param0=[String, System.String]]
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:26:24 Adding file [SqlMap.config] to list of watched files.
+25/12/2019-19:26:24 Statement Id: [FindPageId] Prepared SQL: [SELECT Top(1) PageId        FROM tpzPages        WHERE FriendlyName =   @param0]
+25/12/2019-19:26:30 Statement Id: [FindPageId] PreparedStatement : [SELECT Top(1) PageId        FROM tpzPages        WHERE FriendlyName =   @param0]
+25/12/2019-19:26:30 Statement Id: [FindPageId] Parameters: [@param0=[value,Footer]]
+25/12/2019-19:26:30 Statement Id: [FindPageId] Types: [@param0=[String, System.String]]
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:32:23 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:33:18 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:34:54 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:36:20 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:36:56 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:37:13 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:37:26 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:38:07 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:39:20 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:39:42 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:40:09 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:43:07 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:43:52 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:44:41 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:44:58 Adding file [SqlMap.config] to list of watched files.
+[Header]
+[Footer]
+[Header]
+25/12/2019-19:45:13 Adding file [SqlMap.config] to list of watched files.

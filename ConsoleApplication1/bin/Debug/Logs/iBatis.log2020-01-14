@@ -1,0 +1,13 @@
+[Header]
+[Footer]
+[Header]
+14/01/2020-11:01:19 Adding file [SqlMap.config] to list of watched files.
+14/01/2020-11:01:19 Add property "datasource" value "(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.20.188)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = SJK)))"
+14/01/2020-11:01:19 Add property "userid" value "DJN"
+14/01/2020-11:01:19 Add property "password" value "DJN"
+14/01/2020-11:01:19 Add property "database" value "SJK"
+14/01/2020-11:01:19 Adding file [sqlFile.xml] to list of watched files.
+14/01/2020-11:01:19 Statement Id: [FindPageId] Prepared SQL: [select '123' from dual]
+14/01/2020-11:01:19 Statement Id: [FindPageId] PreparedStatement : [select '123' from dual]
+14/01/2020-11:01:20 Open Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
+14/01/2020-11:01:20 Close Connection "3056034" to "Oracle, Oracle.ManagedDataAccess 4.122.18.3".
