@@ -3,6 +3,7 @@ D:\My_SoftWare_ZYB\code\C-\Service\bin\Debug\netcoreapp3.1\Service.dll
 D:\My_SoftWare_ZYB\code\C-\Service\bin\Debug\netcoreapp3.1\Service.pdb
 D:\My_SoftWare_ZYB\code\C-\Service\bin\Debug\netcoreapp3.1\Common.dll
 D:\My_SoftWare_ZYB\code\C-\Service\bin\Debug\netcoreapp3.1\DataService.dll
+D:\My_SoftWare_ZYB\code\C-\Service\bin\Debug\netcoreapp3.1\Oracle.DataAccess.dll
 D:\My_SoftWare_ZYB\code\C-\Service\bin\Debug\netcoreapp3.1\DataService.pdb
 D:\My_SoftWare_ZYB\code\C-\Service\bin\Debug\netcoreapp3.1\Common.pdb
 D:\My_SoftWare_ZYB\code\C-\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
@@ -11,4 +12,3 @@ D:\My_SoftWare_ZYB\code\C-\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.
 D:\My_SoftWare_ZYB\code\C-\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
 D:\My_SoftWare_ZYB\code\C-\Service\obj\Debug\netcoreapp3.1\Service.dll
 D:\My_SoftWare_ZYB\code\C-\Service\obj\Debug\netcoreapp3.1\Service.pdb
-D:\My_SoftWare_ZYB\code\C-\Service\bin\Debug\netcoreapp3.1\Oracle.DataAccess.dll

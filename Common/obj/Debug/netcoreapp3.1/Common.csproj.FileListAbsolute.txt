@@ -7,9 +7,9 @@ D:\My_SoftWare_ZYB\code\C-\Common\bin\Debug\netcoreapp3.1\Common.Logging.Log4Net
 D:\My_SoftWare_ZYB\code\C-\Common\bin\Debug\netcoreapp3.1\log4net.dll
 D:\My_SoftWare_ZYB\code\C-\Common\bin\Debug\netcoreapp3.1\Oracle.DataAccess.dll
 D:\My_SoftWare_ZYB\code\C-\Common\bin\Debug\netcoreapp3.1\Castle.DynamicProxy.xml
+D:\My_SoftWare_ZYB\code\C-\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
 D:\My_SoftWare_ZYB\code\C-\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
 D:\My_SoftWare_ZYB\code\C-\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
 D:\My_SoftWare_ZYB\code\C-\Common\obj\Debug\netcoreapp3.1\Common.csproj.CopyComplete
 D:\My_SoftWare_ZYB\code\C-\Common\obj\Debug\netcoreapp3.1\Common.dll
 D:\My_SoftWare_ZYB\code\C-\Common\obj\Debug\netcoreapp3.1\Common.pdb
-D:\My_SoftWare_ZYB\code\C-\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache

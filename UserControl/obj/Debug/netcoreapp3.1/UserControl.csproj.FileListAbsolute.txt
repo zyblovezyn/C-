@@ -1,8 +1,0 @@
-D:\My_SoftWare_ZYB\code\C-\UserControl\bin\Debug\netcoreapp3.1\UserControl.deps.json
-D:\My_SoftWare_ZYB\code\C-\UserControl\bin\Debug\netcoreapp3.1\UserControl.dll
-D:\My_SoftWare_ZYB\code\C-\UserControl\bin\Debug\netcoreapp3.1\UserControl.pdb
-D:\My_SoftWare_ZYB\code\C-\UserControl\obj\Debug\netcoreapp3.1\UserControl.csprojAssemblyReference.cache
-D:\My_SoftWare_ZYB\code\C-\UserControl\obj\Debug\netcoreapp3.1\UserControl.AssemblyInfoInputs.cache
-D:\My_SoftWare_ZYB\code\C-\UserControl\obj\Debug\netcoreapp3.1\UserControl.AssemblyInfo.cs
-D:\My_SoftWare_ZYB\code\C-\UserControl\obj\Debug\netcoreapp3.1\UserControl.dll
-D:\My_SoftWare_ZYB\code\C-\UserControl\obj\Debug\netcoreapp3.1\UserControl.pdb

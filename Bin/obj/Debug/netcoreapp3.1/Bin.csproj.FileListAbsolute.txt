@@ -5,4 +5,3 @@ D:\My_SoftWare_ZYB\code\C-\Bin\obj\Debug\netcoreapp3.1\Bin.AssemblyInfoInputs.ca
 D:\My_SoftWare_ZYB\code\C-\Bin\obj\Debug\netcoreapp3.1\Bin.AssemblyInfo.cs
 D:\My_SoftWare_ZYB\code\C-\Bin\obj\Debug\netcoreapp3.1\Bin.dll
 D:\My_SoftWare_ZYB\code\C-\Bin\obj\Debug\netcoreapp3.1\Bin.pdb
-D:\My_SoftWare_ZYB\code\C-\Bin\obj\Debug\netcoreapp3.1\Bin.csprojAssemblyReference.cache

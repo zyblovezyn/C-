@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-d:\My_SoftWare_ZYB\code\C-\UPDS\obj\Debug\netcoreapp3.1\
+D:\My_SoftWare_ZYB\code\C-\UPDS\obj\Debug\netcoreapp3.1\
 UPDS
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-d:\My_SoftWare_ZYB\code\C-\UPDS\App.xaml
-1219584333
+D:\My_SoftWare_ZYB\code\C-\UPDS\App.xaml
+2849607524
 
-4406582544
-204-1342125704
-MainWindow.xaml;
+3-1038273474
+204-1432028971
+Login.xaml;LoginResource.xaml;
 
-True
+False
 
